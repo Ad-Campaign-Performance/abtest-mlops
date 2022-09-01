@@ -39,6 +39,8 @@ cd abtest-mlops
 pip install -r requirements.txt
 ```
 
+remote link https://drive.google.com/drive/folders/1hVfWgX2anmCG-mU16CD4iyrvaQY96enL?usp=sharing
+
 ## Data
 
 - The BIO data for this project is a “Yes” and “No” response of online users to the following question
