@@ -1,0 +1,4 @@
+[core]
+    remote = abremote
+['remote "abremote"']
+    url = https://drive.google.com/drive/folders/1hVfWgX2anmCG-mU16CD4iyrvaQY96enL?usp=sharing
